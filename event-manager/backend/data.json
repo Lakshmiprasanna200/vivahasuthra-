@@ -1,0 +1,26 @@
+[
+  {
+    "mandapName": "JRC Conventions & Trade Fairs",
+    "hallName": "Grand Ballroom",
+    "hallType": "AC",
+    "hallPrice": 375000,
+    "location": "Jubilee Hills, Hyderabad",
+    "date": "2025-09-03"
+  },
+  {
+    "mandapName": "JRC Conventions & Trade Fairs",
+    "hallName": "Grand Ballroom",
+    "hallType": "AC",
+    "hallPrice": 375000,
+    "location": "Jubilee Hills, Hyderabad",
+    "date": "2025-09-18"
+  },
+  {
+    "mandapName": "JRC Conventions & Trade Fairs",
+    "hallName": "Grand Ballroom",
+    "hallType": "AC",
+    "hallPrice": 375000,
+    "location": "Jubilee Hills, Hyderabad",
+    "date": "2025-09-25"
+  }
+]
